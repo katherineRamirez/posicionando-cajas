@@ -1,0 +1,52 @@
+.base{
+	width: 330px;
+	height: 330px;
+	background: red;
+	position: relative;
+	left: 400px;
+	top: 10px;
+}
+
+.cuadro-mediano{
+	width: 180px;
+	height: 180px;
+	background: purple;
+	position: absolute;
+	left: 480px;
+	top: 90px;
+}
+
+.cuadro-pequeño{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	position: absolute;
+	left: 480px;
+	top: 90px;
+}
+.base2{
+	width: 330px;
+	height: 330px;
+	background: blue;
+	position: relative;
+	left: 400px;
+	top: 20px;
+}
+
+.cuadro-mediano2{
+	width: 180px;
+	height: 180px;
+	background: green;
+	position: absolute;
+	left: 480px;
+	top: 430px;
+}
+
+.cuadro-pequeño2{
+	width: 80px;
+	height: 80px;
+	background: black;
+	position: absolute;
+	left: 410px;
+	top: 355px;
+}
